@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
@@ -24,3 +25,7 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+=======
+# tutorial-ionic-weather
+ionic weather app, from a youtube tutorial https://www.youtube.com/watch?v=qs2n_poLarc
+>>>>>>> 4ef46b5cfc3d03a94558d9b646c892f61180164f
