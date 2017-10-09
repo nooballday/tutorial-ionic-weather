@@ -27,5 +27,5 @@ Substitute ios for android if not on a Mac.
 
 =======
 # tutorial-ionic-weather
-ionic weather app, from a youtube tutorial https://www.youtube.com/watch?v=qs2n_poLarc
+ionic weather app, from a [youtube](https://www.youtube.com/watch?v=qs2n_poLarc) tutorial
 >>>>>>> 4ef46b5cfc3d03a94558d9b646c892f61180164f
